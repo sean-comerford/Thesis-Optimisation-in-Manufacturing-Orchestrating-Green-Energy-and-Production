@@ -1,2 +1,2 @@
 # Thesis-Model
-Contains both the predictive PV power model and the scheduling optimisation model. 
+Includes both the predictive PV power model and the scheduling optimisation model. 
